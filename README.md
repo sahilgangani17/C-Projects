@@ -1,6 +1,4 @@
 # C-Projects
-
-<h2></h2>
 <p>I created these projects in my first year of diploma studies to strengthen my understanding of C programming basics.</p>
 
 <h3>Projects Included:</h3>
